@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "prettier.enableDebugLogs": true,
+    "editor.wordWrapColumn": 120
+}
