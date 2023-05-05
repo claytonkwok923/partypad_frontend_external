@@ -163,6 +163,6 @@ const MainPage = () => {
     );
 };
 
-axios.defaults.baseURL = 'http://localhost:8080';
+axios.defaults.baseURL = 'https://partypad-backend-external.herokuapp.com';
 
 export default MainPage;
